@@ -7,5 +7,11 @@ package com.hwj.test;
 public class Test {
     public static void main(String[] args) {
         System.out.println("hello gitee!!");
+         System.out.println("hello gitee!!");
+          System.out.println("hello gitee!!");
+           System.out.println("hello gitee!!");
+            System.out.println("hello gitee!!");
+             System.out.println("hello gitee!!");
+              System.out.println("hello gitee!!");
     }
 }
